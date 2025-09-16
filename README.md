@@ -8,3 +8,4 @@ Also added in profile claimed badges hover effect.
 Big golbe in background continou rotation..
 Now one of the main and imp feature..
 I created custom page loader..
+and also i created custom no internet connection page..
