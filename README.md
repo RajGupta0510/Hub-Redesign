@@ -7,3 +7,4 @@ I add Hover highlight effect in Croakboard Ranking...
 Also added in profile claimed badges hover effect.
 Big golbe in background continou rotation..
 Now one of the main and imp feature..
+I created custom page loader..
